@@ -1,4 +1,4 @@
-# Chocolate Sales & Profitability Dashboard
+# 🍫 Chocolate Sales & Profitability Dashboard
 
 An interactive Power BI dashboard analyzing chocolate shipment data to optimize inventory, identify profit drivers, and improve operational decision-making across product categories and geographic markets.
 
@@ -107,11 +107,11 @@ The project demonstrates proficiency in Power BI development, DAX calculations, 
 
 ## 👤 Author
 
-**Vinay Sai**  
+**Sai Bandela**  
 Business Intelligence Analyst | Power BI | Data Visualization
 
-- [GitHub](https://github.com/vinaysai7)
-- [LinkedIn](https://www.linkedin.com/in/bandela-vinay-babu)
+- [GitHub](https://github.com/saibandela)
+- [LinkedIn](https://www.linkedin.com/in/saibabu-bandela)
 
 ---
 
